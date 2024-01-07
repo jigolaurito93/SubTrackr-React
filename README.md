@@ -1,6 +1,15 @@
-# React + Vite
+# Subtrackr
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+##Features
+  - User Auth
+  - Budget Calculator
+  - Subscription Reminder
+
+## Installation and Setup
+
+  1. Clone the repository git clone https://github.com/jigolaurito93/SubTrackr-React.git
+  2. Navigate to the project directory: cd subtrackrreact
+
 
 Currently, two official plugins are available:
 
