@@ -1,12 +1,10 @@
 import React from "react";
 import Index from "../components/Index";
 
-export default function Home() {
+export default function About() {
   return (
     <div>
-      <div className="top-0 relative">
-        <Index />
-      </div>
+      <Index />
     </div>
   );
 }
