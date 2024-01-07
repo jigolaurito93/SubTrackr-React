@@ -1,3 +1,19 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-family: "PTSansRegular";
+  src: url("/public/fonts/PTSans/PTSans-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+a {
+  @apply font-ptsans text-2xl;
+}
+
+/* #index {
+  background-image: url("./assets/pexels-lukas-317356.jpg");
+} */
