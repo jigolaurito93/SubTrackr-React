@@ -2,7 +2,7 @@
 
 ## About This Application
 
-This application, called SubTrackr is an attempt to recreate my Capstone from my coding bootcamp back in April 2023. It's purpose is to enable individuals to optimize their financial well-being by providing them with unparalleled insights into their finances and a range of beneficial services that assist them in saving time and money. The ultimate goal is to equip them with an advantage in their financial pursuits.
+This application, called SubTrackr, is an attempt to recreate my Capstone from my coding bootcamp back in April 2023. Originally, I created the app using the Flask framework with Python. It's purpose is to enable individuals to optimize their financial well-being by providing them with unparalleled insights into their finances and a range of beneficial services that assist them in saving time and money. The ultimate goal is to equip them with an advantage in their financial pursuits.
 
 It also aims to aid users in monitoring and receiving reminders about their overlooked subscriptions. The objective is to prevent inadvertent payment for subscriptions that are no longer needed, while also keeping track of all subscriptions and memberships. This includes details such as when the subscription was initiated, payment frequency, cost, and subscription type.
 
